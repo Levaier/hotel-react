@@ -1,0 +1,16 @@
+.footer-container {
+    background-color: #325376;
+    margin-top: 2%;
+    color: #F6FAFE;
+    padding: 1.5% 4%;
+}
+
+.icon {
+    margin: 4% 3%;
+    width: 1.5rem;
+    height: auto;
+}
+
+.col-sm {
+    padding: 1% 2%;
+}

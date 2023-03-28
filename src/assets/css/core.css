@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lora', serif;
+    color: #01161E;
+    background-color: #F6FAFE;
+}
+
+p {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.btn {
+    background-color: #325376;
+    border: none;
+    padding: 2% 3%;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+.btn:hover {
+    background-color: #7fa8de;
+}

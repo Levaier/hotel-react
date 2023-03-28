@@ -1,0 +1,15 @@
+#navBar-container {
+    margin: 0 4%;
+}
+
+.brand-title {
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #031926;
+}
+
+a.nav-link {
+    color: #031926;
+    font-weight: 500;
+    
+}

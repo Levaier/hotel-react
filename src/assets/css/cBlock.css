@@ -1,0 +1,28 @@
+#block-container {
+    background-color: #d4e3fc;
+}
+
+.row > * {
+    padding: 0% 0%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    object-fit: cover;
+}
+
+.block-text {
+    color: #02010a;
+    padding: 3.5% 2.5% 2% 5%;
+    text-align: justify;
+    line-height: 1.6;
+    font-weight: 300;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.btn {
+    margin: 4% 0% 0% 0%;
+}
